@@ -1,7 +1,12 @@
 .App {
   text-align: center;
+  
 }
 
+.carList{
+  display: flex;
+  margin: 10px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
